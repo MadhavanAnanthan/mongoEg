@@ -1,0 +1,19 @@
+{
+  "productId": "100",
+  "firstName": "Madhavan",
+  "lastName": "Ananthan",
+  "email": "amadhavan199712@gmail.com",
+  "gender": "MALE",
+  "address": {
+    "country": "India",
+    "postalCode": "Chennai",
+    "city": "600117"
+  },
+  "productList": [
+    "Iphone",
+    "FastAdapter",
+    "LightningCable"
+  ],
+  "totalSpent": "10",
+  "purchaseTime": ""
+}
